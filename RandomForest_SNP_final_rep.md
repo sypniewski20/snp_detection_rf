@@ -1,6 +1,6 @@
 # This notebook presents application of Random Forest and SHAP values for selection of candidate SNPs from whole genome sequencing procedure
 
-### This notebook demonstrates application of feature selection with Random Forest algorythm in searching of promising single nucleotide polymorphism (SNPs) for obesity markers in in Labrador Retriever breed
+### Application of feature selection with Random Forest algorythm in searching of promising single nucleotide polymorphism (SNPs) for obesity markers in in Labrador Retriever breed
 
 
 ```python
